@@ -8,7 +8,7 @@ int main(void)
     float f = 1.23f;
 
     // Use printf display text on the screen
-    printf ("The variables are\na = %d\nb=%d\nf=%f", a, b, f);
+    printf ("The variables are...\na = %d\nb=%d\nf=%f", a, b, f);
 
     // Exit from main
     return 0;
