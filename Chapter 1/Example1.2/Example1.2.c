@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("This is my first program\n What do you think of it?\n");
+    printf("This is my first program\n What do you think?\n");
 }
